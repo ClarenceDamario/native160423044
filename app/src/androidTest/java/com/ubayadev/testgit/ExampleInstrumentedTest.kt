@@ -22,3 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("com.ubayadev.testgit", appContext.packageName)
     }
 }
+
+/**AMBASINGGGGGGGGGGGGGG*/
